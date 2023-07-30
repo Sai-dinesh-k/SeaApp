@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809933625957",
+    "project_id": "sea-app-6cb42",
+    "storage_bucket": "sea-app-6cb42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809933625957:android:c0b2d0e354792e1e2ac48c",
+        "android_client_info": {
+          "package_name": "com.example.seaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809933625957-1g7ihcupvsu0gvgcj766g2rqehbsduvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrVqvc4zjlkvXZcYTaTrAWlMZCe9OuYbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809933625957-1g7ihcupvsu0gvgcj766g2rqehbsduvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
